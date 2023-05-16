@@ -1,0 +1,6 @@
+What is the difference between document and window object blog?
+documents:
+document or just document is the main object of the potentially visible document object model/DOM
+windows object:
+The window object represents an open window in a browser. 
+If a document contain frames, the browser creates one window object for the HTML document, and one additional window object for each frame.
